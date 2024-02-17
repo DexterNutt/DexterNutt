@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1> Demjan A. Golubov </h1>
 
-<!--
-**DexterNutt/DexterNutt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p> I am a passionate and dedicated student of software development with a strong background in project management and a deep interest in full-stack web development. With a Bachelor's degree in bidirectional interpreting and an MA in International Relations, I bring a unique blend of linguistic expertise and global perspective to my work. Outside of my professional pursuits, I am an active volunteer scout, committed to youth development and community service. Additionally, I am involved in a reforesting effort in Macedonia, where I contribute to environmental conservation and sustainability. I am enthusiastic about leveraging my diverse background to contribute to innovative projects and collaborate with like-minded professionals. </p>
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** JavaScript,
+- **Backend:** Node.js, Express, 
+- **Frontend:** React.js TBA
+- **Databases:** MongoDB
+- **Tools:** VS Code, Postman, MongoDB Compass, Slack
+- **Cloud:** TBA
+- **Open Source:** Git, GitHub
