@@ -6,7 +6,7 @@
 
 - **Languages:** JavaScript,
 - **Backend:** Node.js, Express, 
-- **Frontend:** React.js TBA
+- **Frontend:** React.js
 - **Databases:** MongoDB
 - **Tools:** VS Code, Postman, MongoDB Compass, Slack
 - **Cloud:** TBA
