@@ -6,8 +6,8 @@
 
 ## Tech Stack
 
-- **Languages:** JavaScript,
-- **Backend:** Node.js, Express, 
+- **Languages:** JavaScript
+- **Backend:** Node.js, Express
 - **Frontend:** React.js
 - **Databases:** MongoDB
 - **Tools:** VS Code, Postman, MongoDB Compass, Slack
