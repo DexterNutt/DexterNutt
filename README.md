@@ -8,7 +8,7 @@
 
 - **Languages:** JavaScript
 - **Backend:** Node.js, Express
-- **Frontend:** React.js, Sass(TBA) || Tailwind (TBA)
+- **Frontend:** React.js, Sass (TBA) || Tailwind (TBA)
 - **Databases:** MongoDB
 - **Tools:** VS Code, Postman, MongoDB Compass, Slack
 - **Cloud:** TBA
