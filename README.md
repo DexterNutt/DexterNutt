@@ -8,10 +8,10 @@ BookNook @ https://library-booknook.vercel.app/</p>
 
 ## Tech Stack
 
-- **Languages:** JavaScript
-- **Backend:** Node.js, Express
-- **Frontend:** React.js, Sass (TBA) || Tailwind (TBA)
-- **Databases:** MongoDB
-- **Tools:** VS Code, Postman, MongoDB Compass, Slack
+- **Languages:** JavaScript, Typescript
+- **Backend:** Node.js, Express, Hono (in process...)
+- **Frontend:** React.js
+- **Databases:** MongoDB, PostgreSQL (in process...)
+- **Tools:** VS Code, Postman, MongoDB Compass, Slack, Docker (in progress...)
 - **Cloud:** TBA
 - **Open Source:** Git, GitHub
