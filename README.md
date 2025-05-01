@@ -1,6 +1,6 @@
 <h1> Demjan A. Golubov </h1>
 
-<p> I am a passionate and dedicated student of software development with a strong background in project management and a deep interest in full-stack web development. With a Bachelor's degree in bidirectional interpreting and an MA in International Relations, I bring a unique blend of linguistic expertise and global perspective to my work. Outside of my professional pursuits, I am an active volunteer scout, committed to youth development and community service. Additionally, I am involved in a reforesting effort in Macedonia, where I contribute to environmental conservation and sustainability. I am enthusiastic about leveraging my diverse background to contribute to innovative projects and collaborate with like-minded professionals. </p>
+<p> A dedicated backend developer with a solid foundation in building scalable and efficient server-side applications. While my background includes project management, my primary passion lies in crafting robust APIs and ensuring seamless data management. My diverse academic journey, including a Bachelor's in bidirectional interpreting and an MA in International Relations, enriches my problem-solving approach. Beyond coding, I actively contribute to my community as a volunteer scout and participate in reforestation efforts in Macedonia, reflecting my commitment to growth and sustainability. I'm eager to apply my expertise to impactful projects and collaborate with fellow developers. </p>
 
 <p>Check out my latest projects:<br/> 
 MentorToken @ https://mentor-token.netlify.app/<br/>
@@ -9,9 +9,11 @@ BookNook @ https://library-booknook.vercel.app/</p>
 ## Tech Stack
 
 - **Languages:** JavaScript, Typescript
-- **Backend:** Node.js, Express, Hono (in progress...)
+- **Backend:** Node.js, Express, Hono, Bun
 - **Frontend:** React.js
-- **Databases:** MongoDB, PostgreSQL (in progress...)
-- **Tools:** VS Code, Postman, MongoDB Compass, Slack, Docker (in progress...)
-- **Cloud:** TBA
+- **Databases:** MongoDB, PostgreSQL
+- **Cloud:** AWS
+- **Infrastructure:** Terraform
+- **CI/CD:** Github Actions
 - **Open Source:** Git, GitHub
+- **Tools:** VS Code, Postman, MongoDB Compass, Slack, Docker
