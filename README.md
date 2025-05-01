@@ -2,11 +2,11 @@
 
 **Backend Developer**
 
-A dedicated backend developer with a strong foundation in building scalable and efficient server-side applications. While my background includes project management, my true passion lies in crafting robust APIs and ensuring seamless data flow and data management.
+A dedicated backend developer with a strong foundation in building scalable, efficient server-side applications and APIs. My background in project management enhances my technical work with strategic thinking, but my true passion lies in clean architecture and seamless data flow.
 
-My diverse academic journey—holding a BA in Bidirectional Interpreting and an MA in International Relations—shapes a unique, problem-solving mindset. Outside of coding, I give back to my community as a volunteer scout and actively engage in reforestation efforts across Macedonia, reflecting a commitment to both growth and sustainability.
+With a BA in Bidirectional Interpreting and an MA in International Relations, I bring a unique, analytical approach to problem-solving. Outside of tech, I volunteer as a scout leader and support reforestation efforts across Macedonia—combining my drive for growth with a commitment to sustainability.
 
-I'm eager to bring my backend expertise to impactful projects and collaborate with like-minded developers.
+Excited by the prospect of tackling challenging projects and collaborating with experienced developers to build impactful solutions.
 
 ---
 
