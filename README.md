@@ -1,6 +1,6 @@
 # Demjan A. Golubov
 
-**Backend Developer | API Specialist | Sustainability Advocate**
+**Backend Developer**
 
 A dedicated backend developer with a strong foundation in building scalable and efficient server-side applications. While my background includes project management, my true passion lies in crafting robust APIs and ensuring seamless data flow and data management.
 
