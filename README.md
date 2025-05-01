@@ -21,7 +21,6 @@ I'm eager to bring my backend expertise to impactful projects and collaborate wi
 ---
 
 ## 🛠️ Tech Stack
-## ⚙️ Core Technologies
 
 **Languages**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -31,7 +30,6 @@ I'm eager to bring my backend expertise to impactful projects and collaborate wi
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
 ![Hono](https://img.shields.io/badge/-Hono-EF4444?logo=bun&logoColor=white)
-![Bun](https://img.shields.io/badge/-Bun-000000?logo=bun&logoColor=white)
 
 **Frontend**  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
@@ -39,10 +37,6 @@ I'm eager to bring my backend expertise to impactful projects and collaborate wi
 **Databases**  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-
----
-
-## ☁️ Infrastructure & Tools
 
 **Cloud & DevOps**  
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
@@ -56,4 +50,7 @@ I'm eager to bring my backend expertise to impactful projects and collaborate wi
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 ![MongoDB Compass](https://img.shields.io/badge/-MongoDB%20Compass-13AA52?logo=mongodb&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white)
+
+---
+
 
