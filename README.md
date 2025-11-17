@@ -9,7 +9,6 @@ Currently working at WolfWare Labs, where I've architected real-time chat system
 
 
 Outside of tech, I volunteer as a scout leader and support reforestation efforts across Macedonia, balancing my passion for building robust systems with a commitment to community and sustainability.
-Always interested in challenging projects and opportunities to collaborate with talented developers.
 
 ---
 
