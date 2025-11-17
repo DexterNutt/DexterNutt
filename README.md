@@ -2,11 +2,14 @@
 
 **Backend Developer**
 
-A dedicated backend developer with a strong foundation in building scalable, efficient server-side applications and APIs. My background in project management enhances my technical work with strategic thinking, but my true passion lies in clean architecture and seamless data flow.
+Backend developer with production experience building scalable server-side applications, real-time systems, and cloud infrastructure. I specialize in designing APIs, implementing payment integrations, and managing full AWS deployments.
 
-With a BA in Bidirectional Interpreting and an MA in International Relations, I bring a unique, analytical approach to problem-solving. Outside of tech, I volunteer as a scout leader and support reforestation efforts across Macedonia—combining my drive for growth with a commitment to sustainability.
 
-Excited by the prospect of tackling challenging projects and collaborating with experienced developers to build impactful solutions.
+Currently working at WolfWare Labs, where I've architected real-time chat systems, integrated Stripe payments that generate production revenue, and serve as the primary AWS administrator across all company projects. My work spans the full development lifecycle from database design and containerization to CI/CD pipelines and infrastructure as code with Terraform.
+
+
+Outside of tech, I volunteer as a scout leader and support reforestation efforts across Macedonia, balancing my passion for building robust systems with a commitment to community and sustainability.
+Always interested in challenging projects and opportunities to collaborate with talented developers.
 
 ---
 
@@ -28,6 +31,7 @@ Excited by the prospect of tackling challenging projects and collaborating with 
 
 **Backend**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Bun](https://img.shields.io/badge/-Bun-000000?logo=bun&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
 ![Hono](https://img.shields.io/badge/-Hono-EF4444?logo=bun&logoColor=white)
 
@@ -40,8 +44,10 @@ Excited by the prospect of tackling challenging projects and collaborating with 
 
 **Cloud & DevOps**  
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white)
 
 **Developer Tools**  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
